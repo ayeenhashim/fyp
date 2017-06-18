@@ -1,0 +1,276 @@
+/* tables table untuk data_daerah */
+table.tablesorter {
+	font-family:arial;
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 8pt;
+	width: 800px;
+	text-align: left;
+}
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 8pt;
+	padding: 4px;
+	
+}
+table.tablesorter thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table.tablesorter tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+table.tablesorter tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.tablesorter thead tr .headerSortUp {
+	background-image: url(asc.gif);
+}
+table.tablesorter thead tr .headerSortDown {
+	background-image: url(desc.gif);
+}
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+background-color: #8dbdd8;
+}
+
+/* ================================== table untuk data_pengguna */
+table.tablesorter2 {
+	font-family:arial;
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 8pt;
+	width: 100%;
+	text-align: left;
+}
+table.tablesorter2 thead tr th, table.tablesorter2 tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 8pt;
+	padding: 4px;
+	
+}
+table.tablesorter2 thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table.tablesorter2 tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+table.tablesorter2 tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.tablesorter2 thead tr .headerSortUp {
+	background-image: url(asc.gif);
+}
+table.tablesorter2 thead tr .headerSortDown {
+	background-image: url(desc.gif);
+}
+table.tablesorter2 thead tr .headerSortDown, table.tablesorter2 thead tr .headerSortUp {
+background-color: #8dbdd8;
+}
+/* ================================== table untuk data_menu utama */
+table.tablesorter3 {
+	font-family:arial;
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 8pt;
+	width: 100%;
+	text-align: left;
+}
+table.tablesorter3 thead tr th, table.tablesorter3 tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 8pt;
+	padding: 4px;
+	
+}
+table.tablesorter3 thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table.tablesorter3 tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+table.tablesorter3 tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.tablesorter3 thead tr .headerSortUp {
+	background-image: url(asc.gif);
+}
+table.tablesorter3 thead tr .headerSortDown {
+	background-image: url(desc.gif);
+}
+table.tablesorter3 thead tr .headerSortDown, table.tablesorter3 thead tr .headerSortUp {
+background-color: #8dbdd8;
+}
+/* ================================== table untuk data_menu utama */
+table.tablesorter4 {
+	font-family:arial;
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 8pt;
+	width: 100%;
+	text-align: left;
+}
+table.tablesorter4 thead tr th, table.tablesorter4 tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 8pt;
+	padding: 4px;
+	
+}
+table.tablesorter4 thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table.tablesorter4 tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+table.tablesorter4 tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+/*table.tablesorter4 thead tr .headerSortUp {
+	background-image: url(asc.gif);
+}
+table.tablesorter4 thead tr .headerSortDown {
+	background-image: url(desc.gif);
+}
+table.tablesorter4 thead tr .headerSortDown, table.tablesorter4 thead tr .headerSortUp {
+background-color: #8dbdd8;
+}*/
+/*=========================================================*/
+table.tablesorter2 {
+	font-family:arial;
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 8pt;
+	width: 100%;
+	text-align: left;
+}
+table.tablesorter2 thead tr th, table.tablesorter2 tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 8pt;
+	padding: 4px;
+	
+}
+table.tablesorter2 thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table.tablesorter2 tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+table.tablesorter2 tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.tablesorter2 thead tr .headerSortUp {
+	background-image: url(asc.gif);
+}
+table.tablesorter2 thead tr .headerSortDown {
+	background-image: url(desc.gif);
+}
+table.tablesorter2 thead tr .headerSortDown, table.tablesorter2 thead tr .headerSortUp {
+background-color: #8dbdd8;
+}
+/* ================================== table untuk data_menu utama */
+table.tablesorter5 {
+	font-family:arial;
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 8pt;
+	width: 1000px;
+	text-align: left;
+}
+table.tablesorter5 thead tr th, table.tablesorter5 tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 8pt;
+	padding: 4px;
+	
+}
+table.tablesorter5 thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table.tablesorter5 tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+table.tablesorter5 tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.tablesorter5 thead tr .headerSortUp {
+	background-image: url(asc.gif);
+}
+table.tablesorter5 thead tr .headerSortDown {
+	background-image: url(desc.gif);
+}
+table.tablesorter5 thead tr .headerSortDown, table.tablesorter5 thead tr .headerSortUp {
+background-color: #8dbdd8;
+}
+
+
+/*========================= */
+
+/* ================================== table untuk data_menu utama */
+table.tablesorternotis {
+	font-family:arial;
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 8pt;
+	width: 500px;
+	text-align: left;
+}
+table.tablesorternotis thead tr th, table.tablesorternotis tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 8pt;
+	padding: 4px;
+	
+}
+table.tablesorternotis thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table.tablesorternotis tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+table.tablesorternotis tbody tr.odd td {
+	background-color:#F0F0F6;
+}
